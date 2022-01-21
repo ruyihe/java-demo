@@ -31,6 +31,14 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <dependency>
+            <groupId>xyz.ruyi</groupId>
+            <artifactId>java-demo-client</artifactId>
+            <version>${java-demo.client.version}</version>
+        </dependency>
+        
+        
     </dependencies>
 
     <build>

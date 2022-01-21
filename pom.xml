@@ -23,6 +23,7 @@
     </modules>
 
     <properties>
+        <java-demo.client.version>0.0.1-SNAPSHOT</java-demo.client.version>
         <java.version>11</java.version>
     </properties>
 
